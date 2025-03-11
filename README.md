@@ -1,5 +1,3 @@
-
-Copy
 # News Article Agent - Full-Stack JavaScript with RAG/LLM
 
 ## Overview
