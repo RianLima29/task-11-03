@@ -1,5 +1,3 @@
-
-Copy
 # News Article Agent - Full-Stack JavaScript with RAG/LLM
 
 ## Overview
@@ -18,6 +16,7 @@ This project is a Node.js-based query-response application that integrates with 
 - **Structured Output**: The response format is standardized for consistency.
 - **Monitoring with Langfuse**: Integrated Langfuse for enhanced observability.
 - **Optimization Strategies**: Described in the README for improving quality, cost, and latency.
+- **GraphQL with Yoga**: Used graphQL instead of traditional REST implementation.
 
 ## Features
 
@@ -35,6 +34,10 @@ This project is a Node.js-based query-response application that integrates with 
 - **LLM Integration**: OpenAI API, Langchain, Langgraph.
 - **Monitoring**: Langfuse.
 - **Data Ingestion**: Kafka.
+
+## Online Demo
+
+This project is available at ```https://6c5a-164-163-3-210.ngrok-free.app/graphql``` for tests.
 
 ## Setup Instructions
 
