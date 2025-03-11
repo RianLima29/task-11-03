@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon ./src/index.ts"
   },
   "author": "",
   "license": "ISC",
@@ -32,6 +33,7 @@
     "langfuse": "^3.36.0",
     "langfuse-langchain": "^3.36.0",
     "node-oracledb": "^1.0.2",
+    "nodemon": "^3.1.9",
     "zod": "^3.24.2"
   },
   "devDependencies": {
